@@ -13,6 +13,7 @@ This is an easy-to-use installer for managing localization mods for **Mir Tankov
 
 - English
 - German
+- Polish
 
 More languages will be available in future updates.
 
