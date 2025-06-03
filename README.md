@@ -1,7 +1,5 @@
 # Tanki-L10nManager
 
-# Mir Tankov Localization Manager for 1.34.0.0
-
 This is an easy-to-use installer for managing localization mods for **Mir Tankov** (version 1.34.0.0). It automatically downloads the latest language mod files and installs them into the correct game folder, or to your Desktop if the game is not detected.
 
 ## Usage
