@@ -25,7 +25,7 @@ More languages will be available in future updates.
 
 ## Notes
 
-- If the game folder is not detected, copy the downloaded `.mtmod` file manually to your Mir Tankov `mods\1.35.0.0` folder.
+- If the game folder is not detected, copy the downloaded `.mtmod` file manually to your Mir Tankov `mods\1.36.0.0` folder.
 - This installer does **not** modify any game files other than the language mod you choose to install.
 
 ---
